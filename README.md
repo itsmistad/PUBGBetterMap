@@ -12,4 +12,4 @@ The tool
 - currently uses ShatterNL's map as a test.
 
 # Demonstration
-https://cdn.mistad.net/01-11-2018_200277.mp4
+[![01-11-2018_200277.mp4](https://cdn.mistad.net/01-11-2018_621957.jpg)](https://cdn.mistad.net/01-11-2018_200277.mp4)
