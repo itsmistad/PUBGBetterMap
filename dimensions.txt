@@ -1,0 +1,6 @@
+2560 x 1080
+	Top: 0, Left: 732, Height: 1080, Width: 1094
+	362 (wide) x 1080 (high)
+1920 x 1080
+	Top: 0, Left: 412, Height: 1080, Width: 1096
+	684 (wide) x 1080 (high)
