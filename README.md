@@ -4,7 +4,7 @@ A networking, sketchable overlay that will add markers from pubgmap.io to the in
 # Limitations
 The overlay does not allow click-through events, preventing users from controlling background controls while the overlay is open. This means that you may not be able to control any part of the game using the mouse/joystick while the map overlay is visible. The overlay button uses a Windows API hook to create a global hotkey. It currently overrides tilde (`/~). Any functionality normally bound to this key will be overriden when the program is opened.
 
-# As of 11th of January
+# As of the 11th of January
 The tool
 - does not have network capability,
 - does not have Lerp smoothing like the real map does,
